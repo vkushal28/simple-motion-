@@ -1,0 +1,13 @@
+#outerBlock{
+    color:blue;
+    width:200xpx;
+    height:200px;
+    position:relative;
+}
+
+#innerBlock{
+    color:red;
+    width:20px;
+    height:20px;
+    position:absolute;
+}
